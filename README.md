@@ -1,42 +1,43 @@
-### Hey 👋, I'm André 👨‍💻
+# Hey 👋, I'm André 👨‍💻
+
+- I live in Brazil, Minas Gerais!
+- Programming work :smiley:
+- Trained in systems analysis and development 👨‍🎓
+
+
+## About me :eyes:
+
+- :dart: Systems Analyst | Development Analyst 
+- :trophy: Games | Sport | Music
+- :writing_hand: Student
+
+## Connect whith me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/andrebh-dev)](https://github.com/andrebh-dev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrecoutinho-dev/)](https://www.linkedin.com/in/andrecoutinho-dev/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:andresilvacoutinho@gmail.com)
 
 
----
-
-:smiley: Programming student.
-
-👨‍🎓 Trained in systems analysis and development  
-
----
-
-
-### About me :eyes:
-
-- :dart: Systems Analyst | Development Analyst 
-- :heart: Games and Sport
-- :writing_hand: Student
-
-![andrebh-dev github stats](https://github-readme-stats.vercel.app/api?username=andrebh-dev&show_icons=true&hide_border=true)
-
----
-
-### - Languages and Tools...
+## My Skills
 
 <p align="center">
 
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/csharp_dotnet.svg" alt="csharp_dotnet" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/ angular.svg" alt="angular" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:4px">
-
----
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" heigth="40" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".netcore" width="40" heigth="40" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" heigth="40" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" heigth="40" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" heigth="40" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" heigth="40" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" heigth="40" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" heigth="40" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" heigth="40" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserver" width="40" heigth="40" style="max-width: 100%;">
 </p>
+
+
+![andrebh-dev github stats](https://github-readme-stats.vercel.app/api?username=andrebh-dev&show_icons=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrebh-dev)](https://github.com/andrebh-dev/github-readme-stats)
+
+
