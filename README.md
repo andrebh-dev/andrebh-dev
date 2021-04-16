@@ -1,4 +1,4 @@
-# Hey, I'm André! 
+# Hey, I'm André! :rocket:
 
 - I live in Brazil, Minas Gerais 🇧🇷
 - Programming work 👨‍💻
@@ -6,7 +6,6 @@
 
 ## Connect whith me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/andrebh-dev)](https://github.com/andrebh-dev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrecoutinho-dev/)](https://www.linkedin.com/in/andrecoutinho-dev/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:andresilvacoutinho@gmail.com)
 
