@@ -4,13 +4,6 @@
 - Programming work 👨‍💻
 - Trained in systems analysis and development 👨‍🎓
 
-
-## About me 
-
-- :dart: Systems Analyst | Development Analyst 
-- :trophy: Games | Sport | Music
-- :writing_hand: Student
-
 ## Connect whith me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/andrebh-dev)](https://github.com/andrebh-dev)
