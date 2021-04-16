@@ -1,11 +1,11 @@
 # Hey 👋, I'm André 👨‍💻
 
 - I live in Brazil, Minas Gerais!
-- Programming work :smiley:
+- Programming work 💻
 - Trained in systems analysis and development 👨‍🎓
 
 
-## About me :eyes:
+## About me 
 
 - :dart: Systems Analyst | Development Analyst 
 - :trophy: Games | Sport | Music
@@ -34,8 +34,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" heigth="40" style="max-width: 100%;">&nbsp
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" heigth="40" style="max-width: 100%;">&nbsp
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserver" width="40" heigth="40" style="max-width: 100%;">&nbsp
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="visualstudio" width="40" heigth="40" style="max-width: 100%;">&nbsp
 </p>
 
+
+## My Status
 ![andrebh-dev github stats](https://github-readme-stats.vercel.app/api?username=andrebh-dev&show_icons=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrebh-dev)](https://github.com/andrebh-dev/github-readme-stats)
 
