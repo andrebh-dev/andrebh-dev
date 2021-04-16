@@ -1,7 +1,7 @@
-# Hey 👋, I'm André 👨‍💻
+# Hey, I'm André! 
 
-- I live in Brazil, Minas Gerais!
-- Programming work 💻
+- I live in Brazil, Minas Gerais 🇧🇷
+- Programming work 👨‍💻
 - Trained in systems analysis and development 👨‍🎓
 
 
