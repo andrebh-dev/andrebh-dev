@@ -34,7 +34,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" heigth="40" style="max-width: 100%;">&nbsp
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" heigth="40" style="max-width: 100%;">&nbsp
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserver" width="40" heigth="40" style="max-width: 100%;">&nbsp
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="visualstudio" width="40" heigth="40" style="max-width: 100%;">&nbsp
 </p>
 
 
