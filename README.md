@@ -31,6 +31,7 @@
 
 ## My Status
 ![andrebh-dev github stats](https://github-readme-stats.vercel.app/api?username=andrebh-dev&show_icons=true&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrebh-dev)](https://github.com/andrebh-dev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrebh-dev&exclude_repo=github-readme-stats,andrebh-dev.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
