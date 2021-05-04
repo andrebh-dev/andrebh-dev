@@ -1,4 +1,4 @@
-# Hey, I'm André! :rocket:
+# Hey, I'm André!
 
 - I live in Brazil, Minas Gerais 🇧🇷
 - Programming work 👨‍💻
